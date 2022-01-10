@@ -1,0 +1,11 @@
+.main-div {
+    background-color: aqua;
+    height: 100vh;
+  }
+  .head {
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+    font-size: 2vw;
+  }
+
